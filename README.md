@@ -35,7 +35,7 @@ The Windows VS solution is in /rtc-fortran.
 ### Chapter 2
 ![](/output/chapter2.png)
 
-### Chapter 2
+### Chapter 1
 ![](/output/canvas.png)
 
 ## License
