@@ -13,11 +13,9 @@ The Ray Tracer Challenge in Fortran - work in progress
 ![](/output/chapter2.png)
 
 <details>
-  <summary>Chapter 1</summary>
-  <img src=![](/output/canvas.png)/>
+  <summary>Chapter 8: Shadows with "acne" issue</summary>
+  <img src="https://github.com/starkaiser/rtc-fortran/tree/main/output/canvas.png"/>
 </details>
-### Chapter 1
-![](/output/canvas.png)
 
 ## Build Instructions
 
