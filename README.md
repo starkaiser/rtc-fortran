@@ -4,16 +4,16 @@ The Ray Tracer Challenge in Fortran - work in progress
 ## Output
 
 ### Chapter 5
-![](/output/chapter5.ppm)
+![](/output/chapter5.png)
 
 ### Chapter 4
-![](/output/chapter4.ppm)
+![](/output/chapter4.png)
 
 ### Chapter 2
-![](/output/chapter2.ppm)
+![](/output/chapter2.png)
 
 ### Chapter 1
-![](/output/canvas.ppm)
+![](/output/canvas.png)
 
 ## Build Instructions
 
