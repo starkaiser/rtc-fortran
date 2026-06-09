@@ -22,7 +22,7 @@ program test_program
     use test_matrix, only: run_test_matrix
     use test_trans,  only: run_test_trans
     use test_ray,    only: run_test_ray
-    use test_ray,    only: run_test_sphere
+    !use test_ray,    only: run_test_sphere
 
     implicit none
 
@@ -41,10 +41,10 @@ program test_program
 !    print *, "========== Transformations =========="
 !    call run_test_trans()
 !    print *, ""
-!    print *, "========== Ray =========="
-!    call run_test_ray()
-!    print *, ""
-    print *, "========== Sphere =========="
-    call run_test_sphere()
+    print *, "========== Ray =========="
+    call run_test_ray()
+    print *, ""
+    !print *, "========== Sphere =========="
+    !call run_test_sphere()
 
 end program test_program

@@ -43,6 +43,9 @@
 build/
 Build/
 build-*/
+[Dd]ebug/
+x64/
+x86/
 
 # CMake generated files
 CMakeFiles/
@@ -57,6 +60,8 @@ compile_commands.json
 *.log
 *.bak
 *.swp
+
+.vs/
 
 # vcpkg
 vcpkg_installed/
