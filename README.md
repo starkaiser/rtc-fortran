@@ -12,6 +12,10 @@ The Ray Tracer Challenge in Fortran - work in progress
 ### Chapter 2
 ![](/output/chapter2.png)
 
+<details>
+  <summary>Chapter 1</summary>
+  <img src=![](/output/canvas.png)/>
+</details>
 ### Chapter 1
 ![](/output/canvas.png)
 
