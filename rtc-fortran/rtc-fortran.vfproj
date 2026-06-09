@@ -52,6 +52,25 @@
 	</Configurations>
 	<Files>
 		<Filter Name="Header Files" Filter="fi;fd;h;inc"/>
+		<Filter Name="Programs">
+			<File RelativePath="..\programs\rtc_chapter1.f90"/>
+			<File RelativePath="..\programs\rtc_chapter2.f90"/>
+			<File RelativePath="..\programs\rtc_chapter3.f90"/>
+			<File RelativePath="..\programs\rtc_chapter4.f90"/>
+			<File RelativePath="..\programs\rtc_chapter5.f90"/>
+		</Filter>
+		<Filter Name="Resource Files" Filter="rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe"/>
+		<Filter Name="Source Files" Filter="f90;for;f;fpp;ftn;def;odl;idl">
+			<File RelativePath="..\src\rtc_canvas.f90"/>
+			<File RelativePath="..\src\rtc_color.f90"/>
+			<File RelativePath="..\src\rtc_matrix.f90"/>
+			<File RelativePath="..\src\rtc_ray.f90"/>
+			<File RelativePath="..\src\rtc_sphere.f90">
+			</File>
+			<File RelativePath="..\src\rtc_trans.f90"/>
+			<File RelativePath="..\src\rtc_tuple.f90"/>
+			<File RelativePath="..\src\rtc_utils.f90"/>
+		</Filter>
 		<Filter Name="Tests">
 			<File RelativePath="..\tests\test_canvas.f90"/>
 			<File RelativePath="..\tests\test_color.f90"/>
@@ -65,18 +84,6 @@
 			<File RelativePath="..\tests\test_sphere.f90"/>
 			<File RelativePath="..\tests\test_trans.f90"/>
 			<File RelativePath="..\tests\test_tuple.f90"/>
-		</Filter>
-		<Filter Name="Programs"/>
-		<Filter Name="Resource Files" Filter="rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe"/>
-		<Filter Name="Source Files" Filter="f90;for;f;fpp;ftn;def;odl;idl">
-			<File RelativePath="..\src\rtc_canvas.f90"/>
-			<File RelativePath="..\src\rtc_color.f90"/>
-			<File RelativePath="..\src\rtc_matrix.f90"/>
-			<File RelativePath="..\src\rtc_ray.f90"/>
-			<File RelativePath="..\src\rtc_sphere.f90"/>
-			<File RelativePath="..\src\rtc_trans.f90"/>
-			<File RelativePath="..\src\rtc_tuple.f90"/>
-			<File RelativePath="..\src\rtc_utils.f90"/>
 		</Filter>
 	</Files>
 	<Globals/>
